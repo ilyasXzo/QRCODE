@@ -1,0 +1,2 @@
+Assurez-vous d'installer la bibliothèque qrcode au préalable en exécutant
+$ pip install qrcode
